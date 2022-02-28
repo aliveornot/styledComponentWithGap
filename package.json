@@ -1,0 +1,10 @@
+{
+  "name": "@aliveornot/styled-vu",
+  "version": "0.1.0",
+  "description": "styled component with gap and shadow support",
+  "main": "index.js",
+  "repository": "github.com/aliveornot/styledVu.git",
+  "author": "aliveornot",
+  "license": "MIT",
+  "private": true
+}
